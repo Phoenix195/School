@@ -11,4 +11,12 @@ public class Student {
 		this.name=name;
 		this.id=id;
 	}
+	
+	public String getName()
+	{
+		
+		String npu;
+		return this.name;
+		
+	}
 }
